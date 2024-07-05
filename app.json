@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pmbjojoorg.culturestack"
     },
     "web": {
       "bundler": "metro",
@@ -40,9 +41,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "7a4aecf2-1cae-45c4-bbf9-8e5a8d86151f"
+        "projectId": "2ba6d441-fcf8-44e5-9af7-ff4c9edb18b4"
       }
     },
-    "owner": "pmbjojo"
+    "owner": "pmbjojo-org"
   }
 }
