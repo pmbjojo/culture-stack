@@ -1,16 +1,9 @@
-import Gradient from "../assets/Icons/Gradient";
+import { Box, HStack, ScrollView, Text } from "@gluestack-ui/themed";
 import DocumentData from "../assets/Icons/DocumentData";
+import Gradient from "../assets/Icons/Gradient";
 import LightBulbPerson from "../assets/Icons/LightbulbPerson";
-import Rocket from "../assets/Icons/Rocket";
 import Logo from "../assets/Icons/Logo";
-import {
-  Box,
-  Button,
-  ButtonText,
-  HStack,
-  ScrollView,
-  Text,
-} from "@gluestack-ui/themed";
+import Rocket from "../assets/Icons/Rocket";
 
 import { Link } from "expo-router";
 
